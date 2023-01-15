@@ -6,7 +6,7 @@ The dataset is using Travel Insurance Dataset from Kaggle. The dataset contains 
 
 Our Target is TravelInsurance, feature Customer account information such as Age, Employment Type, GraduateOrNot, AnnualIncome, FamilyMembers, ChronicDisease, FrequentFlyer, and EverTravelledAbroad.
 
-https://github.com/dxxvry/Stage-1-Uno/issues/1#issue-1533840470
+<img width="618" alt="image" src="https://user-images.githubusercontent.com/83212789/212546643-a2f78cda-45e6-49f0-bfbc-cf71beb28fc2.png">
 
 ## Stage 0 - Project Background
 
