@@ -6,6 +6,8 @@ The dataset is using Travel Insurance Dataset from Kaggle. The dataset contains 
 
 Our Target is TravelInsurance, feature Customer account information such as Age, Employment Type, GraduateOrNot, AnnualIncome, FamilyMembers, ChronicDisease, FrequentFlyer, and EverTravelledAbroad.
 
+https://github.com/dxxvry/Stage-1-Uno/issues/1#issue-1533840470
+
 ## Stage 0 - Project Background
 
 Stage 0 is an early stage where we implemented 'ask' in data life cycle. There are details about our role, problem statement, goal, objective and business metrics of our project.
