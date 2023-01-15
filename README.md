@@ -30,3 +30,7 @@ These are some business insight we got through the EDA process:
 1. The marketing team can create campaign that focuses on customer that frequently flyer, ever travelled abroad, have high income, and work in private sectors, so it's easier to attract their interest which lead to consideration in buying travel indsurance
 2. The marketing team can also reduce or stop campaign for those from outside the 4 categories in order to decrease the campaign cost or allocated to campaign for the prospective customer
 3. The campaign can be an awareness to customers or prospective customers who included on the 4 categories, to expected later they understand the purpose of travel insurance provided by UNO Inc.
+
+
+## Note
+We presented the result of each stage progress in Bahasa
