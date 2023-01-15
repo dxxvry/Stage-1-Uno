@@ -10,3 +10,5 @@ On stage 1, we do data exploration and visualization known as Exploratory Data A
 
 These are the insight from the dataset:
 1. 
+
+##Stage 0 - Project Background
