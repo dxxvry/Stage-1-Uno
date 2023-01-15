@@ -21,7 +21,7 @@ On stage 1, we do data exploration and visualization known as Exploratory Data A
 
 What we have done on this stage:
 
-Descriptive Analysis
-Univariate Analysis
-Multivariate Analysis
+Descriptive Analysis,
+Univariate Analysis,
+Multivariate Analysis,
 Business Insight As Business Recommendation
