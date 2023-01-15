@@ -19,10 +19,10 @@ Stage 1 is a next step that we focused on gathering insights from statistical vi
 
 What we have done on this stage:
 
-Descriptive Analysis,
-Univariate Analysis,
-Multivariate Analysis,
-Business Insight As Business Recommendation
+* Descriptive Analysis,
+* Univariate Analysis,
+* Multivariate Analysis,
+* Business Insight As Business Recommendation
 
 On stage 1, we do data exploration and visualization known as Exploratory Data Analysis to gain insight of the dataset. 
 These are some business insight we got through the EDA process:
