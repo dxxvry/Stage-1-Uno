@@ -6,8 +6,6 @@ The dataset is using Travel Insurance Dataset from Kaggle. The dataset contains 
 
 Our Target is TravelInsurance, feature Customer account information such as Age, Employment Type, GraduateOrNot, AnnualIncome, FamilyMembers, ChronicDisease, FrequentFlyer, and EverTravelledAbroad.
 
-On stage 1, we do data exploration and visualization known as Exploratory Data Analysis to gain insight of the dataset. 
-
 These are the insight from the dataset:
 1. 
 
@@ -19,6 +17,7 @@ Stage 0 is an early stage where we implemented 'ask' in data life cycle. There a
 ## Stage 1 - Exploratory Data Analysis
 
 Stage 1 is a next step that we focused on gathering insights from statistical views.
+On stage 1, we do data exploration and visualization known as Exploratory Data Analysis to gain insight of the dataset. 
 
 What we have done on this stage:
 
