@@ -34,6 +34,9 @@ These are some business insight we got through the EDA process:
 
 ## Stage 2 - Preprocessing Data
 
+  Stage 2 is another next step that we did manipulation on data before it is used in order to build the model.
+
+
 
 ## Note
 We presented the result of each stage progress in Bahasa
