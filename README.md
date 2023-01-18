@@ -32,5 +32,8 @@ These are some business insight we got through the EDA process:
 3. The campaign can be an awareness to customers or prospective customers who included on the 4 categories, to expected later they understand the purpose of travel insurance provided by UNO Inc.
 
 
+## Stage 2 - Preprocessing Data
+
+
 ## Note
 We presented the result of each stage progress in Bahasa
