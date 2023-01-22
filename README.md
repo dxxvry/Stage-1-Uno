@@ -38,14 +38,14 @@ These are some business insight we got through the EDA process:
   
   What we have done on this stage:
 
-*Handle Missing Values
-*Handle Duplicated Data
-*Handle Outliers
-*Feature Transformation
-*Feature Encoding
-*Handle Class Imbalance
-*Feature Selection
-*Feature Extraction
+* Handle Missing Values
+* Handle Duplicated Data
+* Handle Outliers
+* Feature Transformation
+* Feature Encoding
+* Handle Class Imbalance
+* Feature Selection
+* Feature Extraction
 
 
 
